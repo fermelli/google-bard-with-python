@@ -1,0 +1,5 @@
+python-dotenv
+# pip install python-dotenv
+
+bardapi
+# pip install bardapi
